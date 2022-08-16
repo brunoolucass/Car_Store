@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+root, html, body { 
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    font-family: 'Open Sans';
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
+    background-color:rgb(18, 18, 20);
+    flex-direction: column;
+    color: white;
+    overflow: visible;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+a {
+    transition: 0.3s;
+    text-decoration: none;
+    color:white;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .swiper {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+  @media screen and (max-width: 768px )  { 
+
+    .Peças-Img {
+      width: 80%;
+    }
+  }
+
+
+  @media screen and (max-width: 425px) { 
+
+  .peças-img {
+    width: 90%;
+  }
+  .whatsapp-btn {
+    padding: 5px 10px 5px 10px !important;
+  }
+  .span-footer {
+      font-size: 1.3rem !important;
+      text-align: center;
+  }
+  .footer-title {
+    font-size: 2.0rem !important;
+  }
+  .form-title {
+    font-size: 3.0rem !important;
+  }
+  }
