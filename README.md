@@ -25,18 +25,12 @@
 </ul>
 <h2> Features 🕹 </h2>
 <ul>
- 
- <li>
-<input type="checkbox"> Sistema de preenchimento de Formulário com autenticação.
-</li>
-<li>
-<input type="checkbox"> Carroussel totalmente responsivo com os cards dos carros.
-</li>
- <li>
-<input type="checkbox">  Slide de fotos para cada carro.
-</li>
+<li> Sistema de preenchimento de Formulário com autenticação. </li>
+<li> Carroussel totalmente responsivo com os cards dos carros. </li>
+<li> Slide de fotos para cada carro. </li>
+</ul> 
 <h1> Status do Projeto 📌 </h1>
-<ul> <li> Em construção </li>
+<ul> <li> Em construção </li> </ul>
   
 <h1>EN-US</h1>
 <br>
@@ -55,12 +49,13 @@ Used car sales site, built in ReactJs. In addition, the Styled-Components were u
  <li> <a href="https://react-slick.neostack.com"> Slick React </a>
  <li> <a href="https://developers.google.com/maps"> Google API </a>
  </ul>
+ 
  <h2> Features 🕹 </h2>
- <li>Form filling system with authentication. </li>
+ <li> Form filling system with authentication. </li>
  <li> Form filling system with authentication.</li>
  <li> Fully responsive carousel with car cards.</li>
  <li> Photo slide for each car.</li>
  
  <h1> Project status 📌 </h1>
- <ul> <li> Under construction </li>
+ <ul> <li> Under construction </li> </ul>
   
