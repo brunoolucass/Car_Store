@@ -51,7 +51,6 @@ Used car sales site, built in ReactJs. In addition, the Styled-Components were u
  </ul>
  
  <h2> Features 🕹 </h2>
- <li> Form filling system with authentication. </li>
  <li> Form filling system with authentication.</li>
  <li> Fully responsive carousel with car cards.</li>
  <li> Photo slide for each car.</li>
