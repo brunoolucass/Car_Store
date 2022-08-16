@@ -5,7 +5,7 @@
 # AutoCar-Store 🚗
 <br>
 <h1> Vídeo da Aplicação | Aplication Video: </h1>
-<video src="https://user-images.githubusercontent.com/102983819/184963627-0d537086-9914-4224-8b28-8ca3c8657327.mp4" autoplay >
+<video src="https://user-images.githubusercontent.com/102983819/184963627-0d537086-9914-4224-8b28-8ca3c8657327.mp4" autoplay> </video>
 <br>
 <h1> PT-BR </h1>
 <h1> Sobre esse projeto 🔍 </h1>
