@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# AutoCar-Store 🚗
+<br>
+<h1> Vídeo da Aplicação | Aplication Video: </h1>
+<br>
+<h1> PT-BR </h1>
+<h1> Sobre esse projeto 🔍 </h1>
+<p> Link para a aplicação: </p>
+<p> Site de venda de carros seminovos, construido em ReactJs. Além disso, foi ultilizado o Styled-Components para uma estilização mais prática usando o JavaScript, API do Google Map para permitir a criação de mapas com locais definidos, controle de zoom, tipos de mapas, pesquisa por estabelecimentos, API React Slick para criação de um Componente carrossel construído com React, API Swiper para criação de um componente Slide construído com React e React-Router para criação de Rotas.  </p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1>Tecnologias utilizadas 💻 </h1>
+<ul>
+<li> <a href="https://www.javascript.com/">JavaScript </a></li> 
+<li> <a href="https://pt-br.reactjs.org/"> ReactJS </a> </li>
+<li><a href="https://styled-components.com"> Styled-Components </a> </li>
+<li> <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router </a></li>
+<li> <a href="https://swiperjs.com/"> Swiper React </a>
+<li> <a href="https://react-slick.neostack.com"> Slick React </a>
+<li> <a href="https://developers.google.com/maps"> Google API </a>
+</ul>
+<h2> Features 🕹 </h2>
+<ul>
+ 
+ <li>
+<input type="checkbox"> Sistema de preenchimento de Formulário com autenticação.
+</li>
+<li>
+<input type="checkbox"> Carroussel totalmente responsivo com os cards dos carros.
+</li>
+ <li>
+<input type="checkbox">  Slide de fotos para cada carro.
+</li>
+<h1> Status do Projeto 📌 </h1>
+<ul> <li> Em construção </li>
+  
+<h1>EN-US</h1>
+<br>
+<p>Link to the application:
 
-In the project directory, you can run:
+Used car sales site, built in ReactJs. In addition, the Styled-Components were used for a more practical styling using JavaScript, Google Map API to allow the creation of maps with defined locations, zoom control, map types, search by establishments, React Slick API for creating a Carousel Component built with React, Swiper API for creating a Slide component built with React and React-Router for creating Routes. </p>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h1> Technologies Used 💻 </h1>
+ 
+<ul>
+ <li> <a href="https://www.javascript.com/">JavaScript </a></li> 
+ <li> <a href="https://pt-br.reactjs.org/"> ReactJS </a> </li>
+ <li><a href="https://styled-components.com"> Styled-Components </a> </li>
+ <li> <a href="https://v5.reactrouter.com/web/guides/quick-start">React-Router </a></li>
+ <li> <a href="https://swiperjs.com/"> Swiper React </a>
+ <li> <a href="https://react-slick.neostack.com"> Slick React </a>
+ <li> <a href="https://developers.google.com/maps"> Google API </a>
+ </ul>
+ <h2> Features 🕹 </h2>
+ <li>Form filling system with authentication. </li>
+ <li> Form filling system with authentication.</li>
+ <li> Fully responsive carousel with car cards.</li>
+ <li> Photo slide for each car.</li>
+ 
+ <h1> Project status 📌 </h1>
+ <ul> <li> Under construction </li>
+  
