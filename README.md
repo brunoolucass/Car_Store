@@ -9,7 +9,7 @@
 <br>
 <h1> PT-BR </h1>
 <h1> Sobre esse projeto 🔍 </h1>
-<p> Link para a aplicação: </p>
+<p> Link para a aplicação: https://car-store-seven.vercel.app/</p>
 <p> Site de venda de carros seminovos, construido em ReactJs. Além disso, foi ultilizado o Styled-Components para uma estilização mais prática usando o JavaScript, API do Google Map para permitir a criação de mapas com locais definidos, controle de zoom, tipos de mapas, pesquisa por estabelecimentos, API React Slick para criação de um Componente carrossel construído com React, API Swiper para criação de um componente Slide construído com React e React-Router para criação de Rotas.  </p>
 
 
@@ -34,7 +34,7 @@
   
 <h1>EN-US</h1>
 <br>
-<p>Link to the application:
+<p>Link to the application: https://car-store-seven.vercel.app/
 
 Used car sales site, built in ReactJs. In addition, the Styled-Components were used for a more practical styling using JavaScript, Google Map API to allow the creation of maps with defined locations, zoom control, map types, search by establishments, React Slick API for creating a Carousel Component built with React, Swiper API for creating a Slide component built with React and React-Router for creating Routes. </p>
 
